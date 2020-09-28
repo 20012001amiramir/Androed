@@ -7,4 +7,7 @@
     <string name="gender">Gender:</string>
     <string name="age">Age:</string>
     <string name="name">Name:</string>
+    <string name="videos">Videos</string>
+    <string name="photos">Photos</string>
+    <string name="friends">Friends</string>
 </resources>
