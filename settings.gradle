@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Androed"
+rootProject.name='Template'
